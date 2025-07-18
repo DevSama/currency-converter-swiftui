@@ -16,6 +16,46 @@
 			path = CurrenyConverterSwiftUI;
 			sourceTree = "<group>";
 		};
+		19A3C2292E2A392600E15071 /* Model */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Model;
+			sourceTree = "<group>";
+		};
+		19A3C22A2E2A394D00E15071 /* View */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = View;
+			sourceTree = "<group>";
+		};
+		19A3C22B2E2A395300E15071 /* ViewModel */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		19A3C22C2E2A395900E15071 /* Coordinator */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
+		19A3C22D2E2A396000E15071 /* Resources */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		19A3C22E2E2A396700E15071 /* CoreData */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		19A3C22F2E2A396C00E15071 /* Utilities */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		19A3C2302E2A39E200E15071 /* App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = App;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +72,14 @@
 		19A3C2002E2A335800E15071 = {
 			isa = PBXGroup;
 			children = (
+				19A3C2302E2A39E200E15071 /* App */,
+				19A3C22F2E2A396C00E15071 /* Utilities */,
+				19A3C22E2E2A396700E15071 /* CoreData */,
+				19A3C22D2E2A396000E15071 /* Resources */,
+				19A3C22C2E2A395900E15071 /* Coordinator */,
+				19A3C22B2E2A395300E15071 /* ViewModel */,
+				19A3C22A2E2A394D00E15071 /* View */,
+				19A3C2292E2A392600E15071 /* Model */,
 				19A3C20B2E2A335800E15071 /* CurrenyConverterSwiftUI */,
 				19A3C20A2E2A335800E15071 /* Products */,
 			);
@@ -62,6 +110,14 @@
 			);
 			fileSystemSynchronizedGroups = (
 				19A3C20B2E2A335800E15071 /* CurrenyConverterSwiftUI */,
+				19A3C2292E2A392600E15071 /* Model */,
+				19A3C22A2E2A394D00E15071 /* View */,
+				19A3C22B2E2A395300E15071 /* ViewModel */,
+				19A3C22C2E2A395900E15071 /* Coordinator */,
+				19A3C22D2E2A396000E15071 /* Resources */,
+				19A3C22E2E2A396700E15071 /* CoreData */,
+				19A3C22F2E2A396C00E15071 /* Utilities */,
+				19A3C2302E2A39E200E15071 /* App */,
 			);
 			name = CurrenyConverterSwiftUI;
 			packageProductDependencies = (
