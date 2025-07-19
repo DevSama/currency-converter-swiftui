@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		19A3C2092E2A335800E15071 /* CurrenyConverterSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrenyConverterSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		19A3C2092E2A335800E15071 /* CurrencyConverterSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyConverterSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -88,7 +88,7 @@
 		19A3C20A2E2A335800E15071 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				19A3C2092E2A335800E15071 /* CurrenyConverterSwiftUI.app */,
+				19A3C2092E2A335800E15071 /* CurrencyConverterSwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -96,9 +96,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		19A3C2082E2A335800E15071 /* CurrenyConverterSwiftUI */ = {
+		19A3C2082E2A335800E15071 /* CurrencyConverterSwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 19A3C2192E2A335900E15071 /* Build configuration list for PBXNativeTarget "CurrenyConverterSwiftUI" */;
+			buildConfigurationList = 19A3C2192E2A335900E15071 /* Build configuration list for PBXNativeTarget "CurrencyConverterSwiftUI" */;
 			buildPhases = (
 				19A3C2052E2A335800E15071 /* Sources */,
 				19A3C2062E2A335800E15071 /* Frameworks */,
@@ -119,11 +119,11 @@
 				19A3C22F2E2A396C00E15071 /* Utilities */,
 				19A3C2302E2A39E200E15071 /* App */,
 			);
-			name = CurrenyConverterSwiftUI;
+			name = CurrencyConverterSwiftUI;
 			packageProductDependencies = (
 			);
 			productName = CurrenyConverterSwiftUI;
-			productReference = 19A3C2092E2A335800E15071 /* CurrenyConverterSwiftUI.app */;
+			productReference = 19A3C2092E2A335800E15071 /* CurrencyConverterSwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -141,7 +141,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 19A3C2042E2A335800E15071 /* Build configuration list for PBXProject "CurrenyConverterSwiftUI" */;
+			buildConfigurationList = 19A3C2042E2A335800E15071 /* Build configuration list for PBXProject "CurrencyConverterSwiftUI" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -155,7 +155,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				19A3C2082E2A335800E15071 /* CurrenyConverterSwiftUI */,
+				19A3C2082E2A335800E15071 /* CurrencyConverterSwiftUI */,
 			);
 		};
 /* End PBXProject section */
@@ -361,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		19A3C2042E2A335800E15071 /* Build configuration list for PBXProject "CurrenyConverterSwiftUI" */ = {
+		19A3C2042E2A335800E15071 /* Build configuration list for PBXProject "CurrencyConverterSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				19A3C2172E2A335900E15071 /* Debug */,
@@ -370,7 +370,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		19A3C2192E2A335900E15071 /* Build configuration list for PBXNativeTarget "CurrenyConverterSwiftUI" */ = {
+		19A3C2192E2A335900E15071 /* Build configuration list for PBXNativeTarget "CurrencyConverterSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				19A3C21A2E2A335900E15071 /* Debug */,
