@@ -17,7 +17,7 @@ struct CurrencyConverterView: View {
     @State private var fromCurrency: String = "USD"
     @State private var toCurrency: String = "INR"
    
-    
+    @State private var showHistory: Bool = false
     
     
     
@@ -84,6 +84,10 @@ struct CurrencyConverterView: View {
                 }
                 
                 
+                Button("History") {
+                    showHistory = true
+                }
+                
                 
                 
                 Spacer()
@@ -94,6 +98,9 @@ struct CurrencyConverterView: View {
             }
             .padding()
             .navigationTitle("Convert")
+            .sheet(isPresented: $showHistory) {
+                ConversionHistoryView()
+            }
             
             
             
